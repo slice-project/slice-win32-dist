@@ -4,11 +4,11 @@
 	<modelVersion>4.0.0</modelVersion>
 	
 	<groupId>org.etri.slice</groupId>
-	<artifactId>org.etri.slice.car</artifactId>
+	<artifactId>org.etri.slice.room</artifactId>
 	<version>0.9.1</version>
 	
 	<name>The SLICE Agent</name>
-	<description>org.etri.slice.car :: carseat control applications</description>
+	<description>org.etri.slice.room :: room appliance control applications</description>
 	
 	<properties>
 		<slice.generated.directory>${project.basedir}/org.etri.slice.generated</slice.generated.directory>
