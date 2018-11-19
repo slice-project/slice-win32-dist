@@ -5,6 +5,8 @@
 
 >> Application developer uses SLICE framework to easily define and release software module to the repository and easily deploy it to the edge devices.
 
+>> SLICE engine is run on the edge devices and the software modules from the repository runs on the engine. 
+
 ## Structure of SLICE github Repository ##
 > We devide our source code based on the following categories..
 
