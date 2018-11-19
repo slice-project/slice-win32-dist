@@ -1,5 +1,5 @@
 # SLICE Framework Window Distribution Repository #
-> This is window distribution repository of SLICE framework
+> This is SLICE Framework window distribution repository.
 
 > SLICE patform consists of SLICE Framework and SLICE Engine.
 
