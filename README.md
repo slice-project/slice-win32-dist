@@ -1,11 +1,11 @@
 # SLICE Framework Window Distribution Repository #
 > This is SLICE Framework window distribution repository.
 
-> SLICE patform consists of SLICE Framework and SLICE Engine.
+> SLICE patform consists of Framework and Engine.
 
 >> Application developer uses SLICE framework to easily define and release software module to the repository and easily deploy it to the edge devices.
 
->> SLICE engine is run on the edge devices and software module from repository runs on the engine. 
+>> SLICE engine is run on the edge devices and the software modules from the repository runs on the engine. 
 
 ## Structure of SLICE github Repository ##
 > We devide our source code based on the following categories..
