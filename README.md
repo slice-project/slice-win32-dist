@@ -18,4 +18,3 @@
 
 >> SLICE Example implementations :: [slice-examples](https://github.com/slice-project/slice-examples)
 
-## Getting Started ##
